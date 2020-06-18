@@ -1,0 +1,13 @@
+a {
+  text-decoration: none;
+  background-color: #336699;
+}
+a {
+  color: white;
+ }
+a :visited {
+  color: white;
+ }
+a :active {
+  color: white;
+ }
